@@ -73,7 +73,7 @@ Ileana O. Jelescu, Alexandre de Skowronski, Françoise Geffroy, Marco Palombo, D
 
 ### First application on human gray matter / Development of this package
 
-Quentin Uhl, Tommaso Pavan, Malwina Molendowska, Derek K. Jones, Marco Palombo, Ileana O. Jelescu, [Quantifying human gray matter microstructure using NEXI and 300 mT/m gradients](https://arxiv.org/abs/2307.09492), Arxiv, 2023.
+Quentin Uhl, Tommaso Pavan, Malwina Molendowska, Derek K. Jones, Marco Palombo, Ileana O. Jelescu, [Quantifying human gray matter microstructure using Neurite Exchange Imaging (NEXI) and 300 mT/m gradients](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00104/119673/Quantifying-human-gray-matter-microstructure-using), Imaging Neuroscience, 2024.
 
 
 ## License
